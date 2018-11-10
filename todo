@@ -6,3 +6,8 @@ Todo List 방법
 npm lint
 
 react app server 3000 -> node.js 3001
+
+1. 화면구성
+2. DB 설계
+3. 노드 restful 구성
+4. react, react-native
