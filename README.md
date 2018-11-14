@@ -1,16 +1,15 @@
 # 패션 커뮤니티 Made By Minseo
-============================
+<hr/>
 
 - 요구사항 ( Requirement Definition )
- 1. 한국에 많은 패션 커뮤니티가 있지만 쉽게 검색이 가능한 커뮤니티가 없다. 대부분 네이버 카페 다음카페 등등 일반 커뮤니티 사이트이다.
-   ( There are many fashion community in Korea but they can't special search about fashion. They use normal cummunity site. )
- 2. 패션에 관한 검색기능을 강화한다.
-   ( It's focus searching about fashion )
-   2.1 자신의 사고 싶은 옷이나 코디하고 싶은 옷으로 검색하여 본인의 신체사이즈가 비슷한 사람이 입은 모습, 코디한 모습을 검색할 수 있다.
-   ( Users can search the person in a similar suit or the person who they want style. )
- 3. 서로의 패션은 보고 아이템을 공유하며 우리나라의 패션을 올려나간다.
-   ( They look fashion each other and share items or tips )
- 4. 본인의 패션을 뽐내고 다른 유저와의 소통을 통해서 조언 받고 조언해주는 돈독한 관계를 가진다.
+ 1. 한국에 많은 패션 커뮤니티가 있지만 쉽게 검색이 가능한 커뮤니티가 없다.<br/> 대부분 네이버 카페 다음카페 등등 일반 커뮤니티 사이트이다.
+ 2. 패션에 관한 검색기능을 강화한다.<br/>
+   - 자신의 사고 싶은 옷이나 코디하고 싶은 옷으로 검색하여 본인의 신체사이즈가 비슷한 사람이 입은 모습, 코디한 모습을 검색할 수 있다.
+     + 기본정보의 자신이 입력한 마이사이즈를 기반으로 검색한다
+       1. 키, 몸무게
+       2. 상의(어깨너비, 가슴단면, 총장, 소매길이)
+       3. 아우터(어께너비, 가슴단면, 총장, 소매길이)
+       4. 하의(ㅎㅓ리단면, 밑위, 총장, 허벅지단면, 밑단
 
 - 기능 ( display and function)
   1. 회원가입 ( Join )  -- Kakao or Facebook or Naver
