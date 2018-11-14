@@ -1,4 +1,5 @@
-# 패션 커뮤니티 Made By Minseo
+패션 커뮤니티 Made By Minseo
+============================
 <hr/>
 
 - 요구사항 ( Requirement Definition )
@@ -9,7 +10,7 @@
        1. 키, 몸무게
        2. 상의(어깨너비, 가슴단면, 총장, 소매길이)
        3. 아우터(어께너비, 가슴단면, 총장, 소매길이)
-       4. 하의(ㅎㅓ리단면, 밑위, 총장, 허벅지단면, 밑단
+       4. 하의(허리단면, 밑위, 총장, 허벅지단면, 밑단
 
 - 기능 ( display and function)
   1. 회원가입 ( Join )  -- Kakao or Facebook or Naver
