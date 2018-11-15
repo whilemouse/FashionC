@@ -46,7 +46,10 @@
 ## 화면
    * 회원가입 화면
    * 로그인 화면
+   <img src="https://user-images.githubusercontent.com/6570965/48555263-05311f80-e924-11e8-90f0-7981da4bf45f.PNG" />
    * 마이페이지의 본인정보 입력화면
    * 글쓰기 화면
    * 글보기 화면
    * 검색화면
+   * 메인화면
+   <img src="https://user-images.githubusercontent.com/6570965/48555243-f34f7c80-e923-11e8-930c-806e63e1bfbf.PNG" />
