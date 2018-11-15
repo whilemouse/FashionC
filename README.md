@@ -45,11 +45,16 @@
   
 ## 화면
    * 회원가입 화면
+     - 각 API에서 
    * 로그인 화면
    <img src="https://user-images.githubusercontent.com/6570965/48555263-05311f80-e924-11e8-90f0-7981da4bf45f.PNG" />
    
    * 마이페이지의 본인정보 입력화면
+    + 무신사 -> 마이페이지 -> 마이사이즈 참조
+    <img src="https://user-images.githubusercontent.com/6570965/48555546-e3846800-e924-11e8-8488-d10189f7327a.png" />
+    
    * 글쓰기 화면
+     + 어떤게 좋을지 생각중....
    * 글보기 화면
    * 검색화면
      + 어떻게할지....고민이 필요
